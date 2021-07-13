@@ -1,0 +1,3813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Besiege machine save file.-->
+<Machine version="1" bsgVersion="1.3" name="rocker">
+    <!--The machine's position and rotation.-->
+    <Global>
+        <Position x="0" y="5.05" z="0" />
+        <Rotation x="0" y="0" z="0" w="1" />
+    </Global>
+    <!--The machine's additional data or modded data.-->
+    <Data>
+        <StringArray key="requiredMods" />
+    </Data>
+    <!--The machine's blocks.-->
+    <Blocks>
+        <Block id="0" guid="86d9c549-6443-45ab-9c18-2d9e88f1b876">
+            <Transform>
+                <Position x="0" y="0" z="0" />
+                <Rotation x="0" y="0" z="0" w="1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="38" guid="2408fb05-b9f5-4b33-a490-db7b9aefcda7">
+            <Transform>
+                <Position x="-0.3125" y="0" z="0" />
+                <Rotation x="1.686433E-08" y="0.7071068" z="-1.686433E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-freeze">False</Boolean>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="38" guid="17ccedf9-7a4a-4cfa-8a6c-7c6bcd210263">
+            <Transform>
+                <Position x="0.3125" y="0" z="0" />
+                <Rotation x="-1.686433E-08" y="-0.7071068" z="-1.686433E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-freeze">False</Boolean>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="38" guid="24b805f0-9e76-4f73-9fae-5bf88085ff66">
+            <Transform>
+                <Position x="0" y="0" z="-0.3125" />
+                <Rotation x="-2.384976E-08" y="-1" z="0" w="0" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-freeze">False</Boolean>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="38" guid="bdc19c6d-37d8-46d0-b2fc-e78d92db2d59">
+            <Transform>
+                <Position x="0" y="0" z="0.3125" />
+                <Rotation x="0" y="0" z="-2.384976E-08" w="-1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-freeze">False</Boolean>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="ce64b9ca-8159-4a52-b55f-913c9412b56c">
+            <Transform>
+                <Position x="1.3125" y="0" z="-2.980233E-07" />
+                <Rotation x="-3.372865E-08" y="-0.707107" z="-3.372867E-08" w="-0.7071066" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="bfcd89d2-f673-48c5-ba77-935cc42b1275">
+            <Transform>
+                <Position x="-1.3125" y="0" z="8.940698E-08" />
+                <Rotation x="3.372867E-08" y="0.7071067" z="-3.372865E-08" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="a2b635bc-f921-41a2-aa5c-9b1820c1161a">
+            <Transform>
+                <Position x="-1.8125" y="0.5" z="1.311144E-07" />
+                <Rotation x="0.7071069" y="-8.008462E-08" z="-8.008459E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.8125</X>
+                    <Y>-2.794413E-07</Y>
+                    <Z>8.526513E-14</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>1.297827E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>2.732981E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="c66bcac2-b847-4b70-acc4-047fcf7a196c">
+            <Transform>
+                <Position x="1.8125" y="0.5" z="-5.483469E-07" />
+                <Rotation x="0.7071068" y="-2.275985E-07" z="-2.275986E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.8125</X>
+                    <Y>6.184429E-07</Y>
+                    <Z>5.684342E-14</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>3.688392E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>2.732975E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="78606f12-c2fd-4b65-adc9-f0f88320d771">
+            <Transform>
+                <Position x="0" y="-0.5" z="0" />
+                <Rotation x="-0.7071068" y="1.686433E-08" z="-1.686433E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.8125</X>
+                    <Y>-7.302016E-07</Y>
+                    <Z>5.684342E-14</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>-2.732981E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>3.141797E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="56776304-d625-4685-926d-00bbf2090ad3">
+            <Transform>
+                <Position x="0" y="-0.5" z="0" />
+                <Rotation x="-0.7071068" y="1.686433E-08" z="-1.686433E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.8125</X>
+                    <Y>3.12969E-07</Y>
+                    <Z>-2.842171E-14</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>-2.732981E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>7.5123E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="c3e32c1d-0894-463e-be66-aebf70a24ba6">
+            <Transform>
+                <Position x="-3.5" y="0" z="8.940697E-07" />
+                <Rotation x="6.745732E-08" y="0.7071066" z="-6.745733E-08" w="-0.7071071" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="9cce4c50-10c3-4502-8208-d115b1a42ff7">
+            <Transform>
+                <Position x="-4.5" y="0" z="1.579523E-06" />
+                <Rotation x="8.432165E-08" y="0.7071065" z="-8.432168E-08" w="-0.7071071" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="b931a373-0304-4087-9f65-8877bb7396ff">
+            <Transform>
+                <Position x="4" y="0.5" z="-1.186101E-06" />
+                <Rotation x="0.7071067" y="-1.433048E-07" z="-1.433049E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2.1875</X>
+                    <Y>2.488997E-07</Y>
+                    <Z>1.136868E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>2.322354E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>3.688392E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="978f5822-ae45-431a-add3-c3618537d550">
+            <Transform>
+                <Position x="1.8125" y="-0.5" z="-6.43746E-07" />
+                <Rotation x="-0.7071069" y="-1.938699E-07" z="1.938699E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.1875</X>
+                    <Y>4.663559E-07</Y>
+                    <Z>2.273737E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>3.141797E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>1.775759E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="aa662a52-2905-44aa-9737-53ed53e35f7b">
+            <Transform>
+                <Position x="-4" y="-0.5" z="1.25769E-06" />
+                <Rotation x="-0.7071067" y="-1.727965E-07" z="1.727964E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.1875</X>
+                    <Y>3.794742E-08</Y>
+                    <Z>1.136868E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>2.800286E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>7.512302E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="801e7168-47fc-4212-9c91-80bf244467f4">
+            <Transform>
+                <Position x="-1.8125" y="0.5" z="1.311144E-07" />
+                <Rotation x="0.7071069" y="-8.008462E-08" z="-8.008459E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2.1875</X>
+                    <Y>-4.402792E-07</Y>
+                    <Z>-3.979039E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>1.297827E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>3.346884E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="023b7d4d-0463-4c86-b0d5-9e2d079c29f9">
+            <Transform>
+                <Position x="-1.3125" y="0" z="8.940698E-08" />
+                <Rotation x="3.372867E-08" y="0.7071067" z="-3.372865E-08" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.430512E-06</X>
+                    <Y>-3.16711E-13</Y>
+                    <Z>4.187501</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>-2.849777E-12</X>
+                    <Y>270</Y>
+                    <Z>5.465963E-06</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-4.07111E-12</X>
+                    <Y>270.0001</Y>
+                    <Z>1.639789E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="230c6151-4d4f-43cd-87ae-b2dd99272cee">
+            <Transform>
+                <Position x="-5.000001" y="0" z="1.877546E-06" />
+                <Rotation x="3.303352E-07" y="-0.9951819" z="0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="6137879f-b1d4-4083-977a-088438944d95">
+            <Transform>
+                <Position x="-5" y="0" z="2.026558E-06" />
+                <Rotation x="-0.09804592" y="-6.061597E-07" z="3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="1ef28677-2ffd-4d13-a1a7-519184ca66c4">
+            <Transform>
+                <Position x="-5.500004" y="-0.4878693" z="-2.451933" />
+                <Rotation x="0.09804624" y="-6.081073E-07" z="-3.501012E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="e2a559bc-926d-4837-9543-b0873b3166ce">
+            <Transform>
+                <Position x="-5.499997" y="-0.4878683" z="2.451937" />
+                <Rotation x="3.501011E-07" y="0.9951819" z="0.09804597" w="-6.081071E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="55245307-e565-4b65-9798-a8f23f221ecc">
+            <Transform>
+                <Position x="1.3125" y="0" z="-2.980233E-07" />
+                <Rotation x="-3.372865E-08" y="-0.707107" z="-3.372867E-08" w="-0.7071066" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.430511E-06</X>
+                    <Y>-9.097963E-14</Y>
+                    <Z>4.187503</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>-2.849777E-12</X>
+                    <Y>90.00003</Y>
+                    <Z>5.465963E-06</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-8.14222E-13</X>
+                    <Y>89.99999</Y>
+                    <Z>1.639789E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="438ac4e3-122c-437b-af66-3c9d40620d58">
+            <Transform>
+                <Position x="-5.5" y="0" z="2.413988E-06" />
+                <Rotation x="1.01186E-07" y="0.7071065" z="-1.01186E-07" w="-0.7071072" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="c0792941-348f-41e9-b231-976154908b6f">
+            <Transform>
+                <Position x="-5" y="0.5" z="1.817902E-06" />
+                <Rotation x="0.7071069" y="-2.697454E-07" z="-2.697454E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1</X>
+                    <Y>-1.370671E-07</Y>
+                    <Z>-2.273737E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>4.371412E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>5.395939E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="a9fcb33e-83fb-4550-9c2f-585f76428172">
+            <Transform>
+                <Position x="-5" y="-0.5" z="2.0564E-06" />
+                <Rotation x="-0.7071067" y="-2.360168E-07" z="2.360167E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1</X>
+                    <Y>2.801655E-07</Y>
+                    <Z>-5.684342E-14</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>3.824815E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>4.849342E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="89ab202f-768d-4753-b959-c8ea1e620148">
+            <Transform>
+                <Position x="-6.000001" y="0" z="1.877546E-06" />
+                <Rotation x="3.303352E-07" y="-0.9951819" z="0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="d36b517d-c2c3-4598-bf68-73f9daa333d5">
+            <Transform>
+                <Position x="-6" y="0" z="2.026558E-06" />
+                <Rotation x="-0.09804592" y="-6.061597E-07" z="3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="4f4782a4-6296-4b40-afe2-12c8a22d6c3e">
+            <Transform>
+                <Position x="-5.500003" y="-0.2927217" z="-1.471159" />
+                <Rotation x="0.09804623" y="-6.104456E-07" z="-3.738361E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.5000004</X>
+                    <Y>2.980232E-08</Y>
+                    <Z>0.5000003</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7466</X>
+                    <Y>6.669705E-05</Y>
+                    <Z>3.647481E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="80742028-45c9-4aad-a82e-9713fb0d75a6">
+            <Transform>
+                <Position x="-6.000002" y="-0.1951475" z="-0.9807721" />
+                <Rotation x="3.066004E-07" y="-0.9951819" z="0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.4999997</X>
+                    <Y>-8.270144E-07</Y>
+                    <Z>0.4999994</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7466</X>
+                    <Y>6.669705E-05</Y>
+                    <Z>3.647481E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="902c9a8a-0ae5-4696-ac59-86c22db53056">
+            <Transform>
+                <Position x="-5.999999" y="-0.1951475" z="0.9807761" />
+                <Rotation x="-0.09804592" y="-6.038214E-07" z="3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.5000004</X>
+                    <Y>5.736947E-07</Y>
+                    <Z>0.5000004</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669705E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7467</X>
+                    <Y>180.0001</Y>
+                    <Z>3.647482E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="65121f68-3075-4559-9b5d-f52ebc3bf4bc">
+            <Transform>
+                <Position x="-5.499998" y="-0.2927208" z="1.471163" />
+                <Rotation x="-3.73836E-07" y="-0.9951819" z="-0.09804597" w="6.104456E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.4999996</X>
+                    <Y>1.713634E-07</Y>
+                    <Z>0.4999993</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7467</X>
+                    <Y>180.0001</Y>
+                    <Z>3.647482E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669706E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="c061f4d2-330a-499d-8eed-6fabd6d473fd">
+            <Transform>
+                <Position x="-4.999999" y="-0.1951475" z="0.9807761" />
+                <Rotation x="-0.09804592" y="-6.038214E-07" z="3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1</X>
+                    <Y>-7.286506E-07</Y>
+                    <Z>-1.141703E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669705E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669705E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="1db66f0d-e94c-4eca-8661-925a79d0b06b">
+            <Transform>
+                <Position x="-6.000002" y="-0.1951475" z="-0.9807721" />
+                <Rotation x="3.066004E-07" y="-0.9951819" z="0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.000001</X>
+                    <Y>-7.286514E-07</Y>
+                    <Z>-1.141703E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="7ddb6352-b471-4c34-82cf-4662d135f412">
+            <Transform>
+                <Position x="-5.5" y="0.01213789" z="-2.451963" />
+                <Rotation x="-0.7071068" y="-2.800465E-07" z="-1.444193E-07" w="-0.7071067" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="f204080f-e553-46a3-a467-fbe7b9e01e1b">
+            <Transform>
+                <Position x="-5.5" y="0.01213741" z="2.451964" />
+                <Rotation x="-0.707115" y="1.266138E-07" z="2.867339E-07" w="-0.7070985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="c5a9e7c7-18fa-4f0c-92ed-058b0b792160">
+            <Transform>
+                <Position x="-5.5" y="1.5" z="2.056242E-06" />
+                <Rotation x="1.01186E-07" y="0.7071065" z="-1.01186E-07" w="-0.7071072" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="7af68b80-aeb6-456b-bf4c-cec770ba247d">
+            <Transform>
+                <Position x="-6.000001" y="1.5" z="1.5198E-06" />
+                <Rotation x="3.303352E-07" y="-0.9951819" z="0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="99be4840-2a31-40f6-a706-31fd47507c2b">
+            <Transform>
+                <Position x="-6" y="1.5" z="1.668811E-06" />
+                <Rotation x="-0.09804592" y="-6.061597E-07" z="3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="96ae037e-1c5f-4ee5-8946-8240600dd0ff">
+            <Transform>
+                <Position x="-5.499997" y="1.012132" z="2.451936" />
+                <Rotation x="3.501011E-07" y="0.9951819" z="0.09804597" w="-6.081071E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="4f344f69-b35a-46f8-babc-c70490987eae">
+            <Transform>
+                <Position x="-6.000002" y="1.304852" z="-0.9807724" />
+                <Rotation x="3.066004E-07" y="-0.9951819" z="0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.4999997</X>
+                    <Y>-7.82311E-07</Y>
+                    <Z>0.4999997</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7466</X>
+                    <Y>6.669704E-05</Y>
+                    <Z>3.647481E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="5c8f0175-34bc-4214-ad86-fd80538034e6">
+            <Transform>
+                <Position x="-5.999999" y="1.304852" z="0.9807757" />
+                <Rotation x="-0.09804592" y="-6.038214E-07" z="3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.5000004</X>
+                    <Y>5.736947E-07</Y>
+                    <Z>0.5000004</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669706E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7467</X>
+                    <Y>180.0001</Y>
+                    <Z>3.647483E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="694b8b9e-f6ed-458a-9b40-c5349d87a49f">
+            <Transform>
+                <Position x="-5.5" y="0.5121374" z="2.451941" />
+                <Rotation x="3.176422E-07" y="0.7070985" z="0.7071151" w="9.570482E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="3fcb26ed-7bf1-46cd-ab65-0fea3e7e50f8">
+            <Transform>
+                <Position x="-5" y="2" z="1.460156E-06" />
+                <Rotation x="0.7071069" y="-2.697454E-07" z="-2.697454E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1</X>
+                    <Y>-1.370671E-07</Y>
+                    <Z>-2.273737E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>4.371412E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>5.395939E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="c5ff8882-f530-4750-98eb-66fd714f8ef6">
+            <Transform>
+                <Position x="-5" y="1" z="1.698653E-06" />
+                <Rotation x="-0.7071067" y="-2.360168E-07" z="2.360167E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1</X>
+                    <Y>2.801655E-07</Y>
+                    <Z>-5.684342E-14</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>3.824815E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>4.849342E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="7fc5b105-28ee-4f3c-920f-ad42af70a9a6">
+            <Transform>
+                <Position x="-4.999999" y="1.304852" z="0.9807757" />
+                <Rotation x="-0.09804592" y="-6.038214E-07" z="3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1</X>
+                    <Y>-7.286506E-07</Y>
+                    <Z>-1.141703E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669706E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669706E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="64feaa5b-0946-4264-88ea-f4b793fd1e8d">
+            <Transform>
+                <Position x="-6.000002" y="1.304852" z="-0.9807724" />
+                <Rotation x="3.066004E-07" y="-0.9951819" z="0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.000002</X>
+                    <Y>-7.286521E-07</Y>
+                    <Z>-1.141704E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="707c03db-98f6-40d4-9021-81861b98348e">
+            <Transform>
+                <Position x="-5.500004" y="1.012131" z="-2.451933" />
+                <Rotation x="0.09804624" y="-6.081073E-07" z="-3.501012E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="cc5ec3eb-0b51-43f4-abe7-3d564fef3fe7">
+            <Transform>
+                <Position x="-5.499998" y="1.207279" z="1.471163" />
+                <Rotation x="-3.73836E-07" y="-0.9951819" z="-0.09804597" w="6.104456E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.4999996</X>
+                    <Y>1.713634E-07</Y>
+                    <Z>0.4999993</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7467</X>
+                    <Y>180.0001</Y>
+                    <Z>3.647482E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>6.669707E-05</Y>
+                    <Z>-2.873287E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="678a40d1-420c-41c9-87fd-783670af459e">
+            <Transform>
+                <Position x="-5.5" y="0.5121374" z="-2.451964" />
+                <Rotation x="-1.135107E-07" y="0.7071066" z="0.7071069" w="-3.109551E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="8c6225ba-eb79-43b2-99fe-22950f81cb84">
+            <Transform>
+                <Position x="-5.500003" y="1.207278" z="-1.471159" />
+                <Rotation x="0.09804623" y="-6.104456E-07" z="-3.738361E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.5000004</X>
+                    <Y>2.980232E-08</Y>
+                    <Z>0.5000003</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7466</X>
+                    <Y>6.669704E-05</Y>
+                    <Z>3.647482E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>180.0001</Y>
+                    <Z>-2.873286E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="3ce8373d-3fb8-4010-be56-67537ed8f8f9">
+            <Transform>
+                <Position x="-5.000001" y="1.5" z="1.5198E-06" />
+                <Rotation x="3.303352E-07" y="-0.9951819" z="0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="b3d01631-19d5-4eec-8901-c511ffe0179e">
+            <Transform>
+                <Position x="-5" y="1.5" z="1.668811E-06" />
+                <Rotation x="-0.09804592" y="-6.061597E-07" z="3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="4eb1f4bb-7729-4a90-a636-d78001965d2b">
+            <Transform>
+                <Position x="-5.5" y="1.5" z="1.90723E-06" />
+                <Rotation x="8.432172E-08" y="-0.7071072" z="8.432166E-08" w="-0.7071064" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="d34c18dc-8ffc-41e8-aa4c-5c021868c02d">
+            <Transform>
+                <Position x="-5" y="0.5" z="1.817902E-06" />
+                <Rotation x="0.7071069" y="-2.697454E-07" z="-2.697454E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>3.495946E-13</X>
+                    <Y>2.980232E-07</Y>
+                    <Z>0.5000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>4.371412E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>7.239907E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="adc52aaf-d9bb-4a04-8ae1-2c1bbdd7889e">
+            <Transform>
+                <Position x="-6" y="1" z="2.646375E-06" />
+                <Rotation x="-0.7071067" y="-2.99237E-07" z="2.99237E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-7.815024E-15</X>
+                    <Y>-2.980232E-08</Y>
+                    <Z>0.5000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>4.849342E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>5.395939E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="38ff0f67-bdfe-496f-be76-1d3db71dbc36">
+            <Transform>
+                <Position x="-5.5" y="0.01213789" z="-2.451963" />
+                <Rotation x="0.7071067" y="1.27555E-07" z="-2.969108E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.253817E-06</X>
+                    <Y>5.662441E-07</Y>
+                    <Z>0.5000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-2.067117E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>4.265049E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="53d4faef-cc2f-4538-ba26-91b2c8512c34">
+            <Transform>
+                <Position x="-5.5" y="0.01213741" z="2.451964" />
+                <Rotation x="0.7070985" y="-3.035981E-07" z="1.097493E-07" w="-0.7071151" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-7.691098E-07</X>
+                    <Y>3.549457E-05</Y>
+                    <Z>0.5000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>4.919959E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>-1.824285E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="e7f27234-5ca8-42f7-aa5e-62a1e8f61f1b">
+            <Transform>
+                <Position x="-6" y="1.012138" z="2.451952" />
+                <Rotation x="-8.01617E-06" y="0.7071067" z="8.429517E-06" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>3.512499E-05</X>
+                    <Y>-1.5</Y>
+                    <Z>-3.999994E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>-3.349269E-05</X>
+                    <Y>270</Y>
+                    <Z>-0.001332569</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-3.349274E-05</X>
+                    <Y>270</Y>
+                    <Z>-0.001329154</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="d5f4106e-40f2-4b63-be66-8f5617911a9b">
+            <Transform>
+                <Position x="-5" y="-0.4878631" z="2.451953" />
+                <Rotation x="-8.442175E-06" y="-0.7071069" z="-8.028827E-06" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>3.565553E-05</X>
+                    <Y>1.5</Y>
+                    <Z>-4.000032E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>3.349285E-05</X>
+                    <Y>90.00001</Y>
+                    <Z>0.00133462</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>3.349259E-05</X>
+                    <Y>90.00002</Y>
+                    <Z>0.001338035</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="b41120dd-cf9a-4135-83dd-96834b0cffe5">
+            <Transform>
+                <Position x="-5" y="-0.4878616" z="-2.451963" />
+                <Rotation x="1.532217E-07" y="-0.7071069" z="-2.712442E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.204038E-06</X>
+                    <Y>1.5</Y>
+                    <Z>4.23591E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>-3.439382E-05</X>
+                    <Y>90.00001</Y>
+                    <Z>9.563177E-06</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-3.439382E-05</X>
+                    <Y>90.00001</Y>
+                    <Z>2.322354E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="5edf527b-ac7e-4e42-b6e1-4909396ebe29">
+            <Transform>
+                <Position x="-6" y="-0.4878626" z="-2.451963" />
+                <Rotation x="-2.375155E-07" y="0.7071067" z="-1.869504E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-5.841019E-07</X>
+                    <Y>1.5</Y>
+                    <Z>-4.235907E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>3.439382E-05</X>
+                    <Y>270</Y>
+                    <Z>-4.097209E-06</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>3.439382E-05</X>
+                    <Y>270</Y>
+                    <Z>-1.775758E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="d32d72b6-8350-4cc0-b546-6a5a420728dc">
+            <Transform>
+                <Position x="-5.499999" y="1.012137" z="2.451964" />
+                <Rotation x="0.7409491" y="-3.431439E-07" z="1.705138E-08" w="-0.6715612" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="bccd2273-0d9e-4037-a804-dc1daada53e3">
+            <Transform>
+                <Position x="-5.5" y="1.012137" z="-2.451963" />
+                <Rotation x="0.6715523" y="8.768097E-08" z="-2.894704E-07" w="-0.7409571" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="28" guid="0e960c5b-c0d7-40f9-ab10-4ad57197f169">
+            <Transform>
+                <Position x="-5.5" y="-0.487874" z="2.951953" />
+                <Rotation x="-1.165271E-05" y="-1.132218E-07" z="2.684312E-07" w="-1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-left">LeftArrow</StringArray>
+                <StringArray key="bmt-right">RightArrow</StringArray>
+                <Boolean key="bmt-autoReturn">False</Boolean>
+                <Single key="bmt-rotation-speed">1</Single>
+                <Boolean key="bmt-uselimits">True</Boolean>
+                <SingleArray key="bmt-limits">
+                    <Single>40</Single>
+                    <Single>40</Single>
+                </SingleArray>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="28" guid="a0d779cc-e2dd-4b74-8f06-f0627468ab1a">
+            <Transform>
+                <Position x="-5.5" y="-0.4878621" z="-2.951963" />
+                <Rotation x="2.762929E-07" y="-1" z="-8.940692E-08" w="9.590285E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-left">LeftArrow</StringArray>
+                <StringArray key="bmt-right">RightArrow</StringArray>
+                <Boolean key="bmt-autoReturn">False</Boolean>
+                <Single key="bmt-rotation-speed">1</Single>
+                <Boolean key="bmt-uselimits">True</Boolean>
+                <SingleArray key="bmt-limits">
+                    <Single>40</Single>
+                    <Single>40</Single>
+                </SingleArray>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">True</Boolean>
+            </Data>
+        </Block>
+        <Block id="46" guid="20b2f74f-4a85-4b8f-bf90-0c26bf6f3c55">
+            <Transform>
+                <Position x="-5.5" y="-0.4878597" z="-3.951963" />
+                <Rotation x="2.524431E-07" y="-1" z="2.98023E-08" w="9.590281E-08" />
+                <Scale x="1.5" y="1.5" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">True</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">1</Single>
+                <Single key="bmt-acceleration">Infinity</Single>
+                <Boolean key="bmt-scale">True</Boolean>
+                <Single key="bmt-x-scale">1.5</Single>
+                <Single key="bmt-y-scale">1.5</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">False</Boolean>
+                <Boolean key="bmt-uselimits">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="46" guid="fb327ad2-6ee3-4761-a18e-ac861328f2c5">
+            <Transform>
+                <Position x="-5.5" y="-0.4878955" z="3.951953" />
+                <Rotation x="-1.183152E-05" y="-1.132215E-07" z="2.445814E-07" w="-1" />
+                <Scale x="1.5" y="1.5" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">True</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">1</Single>
+                <Single key="bmt-acceleration">Infinity</Single>
+                <Boolean key="bmt-scale">True</Boolean>
+                <Single key="bmt-x-scale">1.5</Single>
+                <Single key="bmt-y-scale">1.5</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">True</Boolean>
+                <Boolean key="bmt-uselimits">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="5" guid="614696e4-7601-4748-bcc9-a4a7d542773c">
+            <Transform>
+                <Position x="-5" y="1.012137" z="2.451952" />
+                <Rotation x="0.06932055" y="-0.7036992" z="-0.06933707" w="-0.7037007" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="2b5fc9e4-80bd-4da0-b8cd-978b5b3c8fd2">
+            <Transform>
+                <Position x="-4.999978" y="1.012141" z="-2.451964" />
+                <Rotation x="0.06932903" y="-0.7036983" z="-0.06932941" w="-0.7037014" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="59e5db2d-371b-48e5-a601-6b45aaf7dcad">
+            <Transform>
+                <Position x="-4.019214" y="1.207226" z="2.451957" />
+                <Rotation x="0.06932053" y="-0.7036991" z="-0.06933709" w="-0.7037007" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="ba00978d-93cb-436e-8322-27e199485f3a">
+            <Transform>
+                <Position x="-4.019193" y="1.207232" z="-2.45196" />
+                <Rotation x="0.06932902" y="-0.7036982" z="-0.06932944" w="-0.7037015" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="62800eb2-ae5e-4a7e-838b-7d3d4924bc5c">
+            <Transform>
+                <Position x="-2.548053" y="1.499959" z="1.951963" />
+                <Rotation x="0.09804574" y="-0.9951819" z="-1.170766E-05" w="-1.192748E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="28cd3acf-81b1-4eae-b034-3a1442db75e3">
+            <Transform>
+                <Position x="-2.548034" y="1.499953" z="-1.951953" />
+                <Rotation x="-2.991193E-07" y="2.359222E-06" z="-0.09804636" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="a79814de-fd04-48f9-8ddb-01d2fd96fb4a">
+            <Transform>
+                <Position x="-2.548053" y="1.499935" z="2.951963" />
+                <Rotation x="-1.170766E-05" y="1.192748E-06" z="-0.09804578" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-8.389743E-07</X>
+                    <Y>-0.0001215803</Y>
+                    <Z>-5.903916</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>0.001348535</X>
+                    <Y>-4.482299E-06</Y>
+                    <Z>11.2533</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-6.061801E-05</X>
+                    <Y>179.9997</Y>
+                    <Z>348.7466</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="db2b3fa5-da68-40bf-a7cb-08314d497d6c">
+            <Transform>
+                <Position x="-3.038424" y="1.402379" z="-1.451955" />
+                <Rotation x="-0.06932945" y="0.7037015" z="-0.06932905" w="-0.7036982" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.451962</X>
+                    <Y>0.3809679</Y>
+                    <Z>1.414419</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25337</X>
+                    <Y>269.9997</Y>
+                    <Z>-5.962995E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>4.628217E-07</X>
+                    <Y>90.00006</Y>
+                    <Z>-1.161137E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="ac2bcd58-c009-407c-9987-df75cc6774ec">
+            <Transform>
+                <Position x="-3.03844" y="1.402397" z="1.451961" />
+                <Rotation x="-0.06933707" y="0.7037007" z="-0.06932054" w="-0.7036991" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.451962</X>
+                    <Y>0.3809116</Y>
+                    <Z>1.414421</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25329</X>
+                    <Y>269.9997</Y>
+                    <Z>-0.001371924</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-9.088798E-07</X>
+                    <Y>90.00005</Y>
+                    <Z>-1.056823E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="243b347f-280e-4e50-9456-f53702882179">
+            <Transform>
+                <Position x="5.5" y="-9.536743E-07" z="2.384186E-06" />
+                <Rotation x="1.01186E-07" y="-0.7071065" z="1.01186E-07" w="-0.7071072" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="e9a0f4a9-fd1b-47cd-b994-490adafc0b6f">
+            <Transform>
+                <Position x="6" y="-9.536743E-07" z="1.907349E-06" />
+                <Rotation x="3.303352E-07" y="0.9951819" z="-0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="fabfeb52-287b-4137-a70b-e0620b478421">
+            <Transform>
+                <Position x="5.999999" y="-9.536743E-07" z="1.907349E-06" />
+                <Rotation x="-0.09804592" y="6.061597E-07" z="-3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="65b0ca7b-21ff-465a-99e4-6661eba27cca">
+            <Transform>
+                <Position x="5.5" y="1.499999" z="2.145767E-06" />
+                <Rotation x="1.01186E-07" y="-0.7071065" z="1.01186E-07" w="-0.7071072" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="ca8fd954-53de-4126-9b63-552e4f16203a">
+            <Transform>
+                <Position x="6" y="1.499999" z="1.430511E-06" />
+                <Rotation x="3.303352E-07" y="0.9951819" z="-0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="6aad24fc-19a5-442f-af61-e2ed6d44561e">
+            <Transform>
+                <Position x="5.999999" y="1.499999" z="1.66893E-06" />
+                <Rotation x="-0.09804592" y="6.061597E-07" z="-3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="8514ecf3-d41e-4e9d-83b7-d71101babd12">
+            <Transform>
+                <Position x="6" y="0.999999" z="2.622604E-06" />
+                <Rotation x="-0.7071067" y="2.99237E-07" z="-2.99237E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>-4.768372E-07</X>
+                    <Y>4.035801E-13</Y>
+                    <Z>1.084201E-19</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-4.768372E-07</X>
+                    <Y>-8.940684E-08</Y>
+                    <Z>0.4999993</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>-4.84934E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>-5.39594E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="21f0330d-a5b4-4e68-9029-58cc631e22d9">
+            <Transform>
+                <Position x="5.999999" y="1.012137" z="2.451952" />
+                <Rotation x="-8.01617E-06" y="-0.7071067" z="-8.429517E-06" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-3.58402E-05</X>
+                    <Y>-1.5</Y>
+                    <Z>-6.384169E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>-3.349311E-05</X>
+                    <Y>90</Y>
+                    <Z>0.001332569</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-3.349279E-05</X>
+                    <Y>90</Y>
+                    <Z>0.001329154</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="9d5e0d84-649c-4d2b-9530-df16588efb93">
+            <Transform>
+                <Position x="5.999999" y="-0.4878626" z="-2.451963" />
+                <Rotation x="-2.375155E-07" y="-0.7071067" z="1.869504E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>-4.768365E-07</X>
+                    <Y>3.409862E-14</Y>
+                    <Z>8.526501E-14</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>8.225193E-07</X>
+                    <Y>1.5</Y>
+                    <Z>-9.00427E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>3.439383E-05</X>
+                    <Y>90</Y>
+                    <Z>4.097217E-06</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>3.439383E-05</X>
+                    <Y>90</Y>
+                    <Z>1.775759E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="bf2a86c3-4c04-445c-bac7-d2872f170458">
+            <Transform>
+                <Position x="5.499996" y="-0.4878683" z="2.451937" />
+                <Rotation x="3.501011E-07" y="-0.9951819" z="-0.09804597" w="-6.081071E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="795322d8-05fb-424a-8a67-19154abcd955">
+            <Transform>
+                <Position x="6.000001" y="-0.1951475" z="-0.980772" />
+                <Rotation x="3.066004E-07" y="0.9951819" z="-0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>2.384179E-07</X>
+                    <Y>-1.73724E-13</Y>
+                    <Z>-2.722026E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.4999985</X>
+                    <Y>-6.034971E-07</Y>
+                    <Z>0.4999996</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873285E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7466</X>
+                    <Y>-6.669702E-05</Y>
+                    <Z>-3.647483E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="2b64ba8f-cedb-42bc-9c12-f87c9392937a">
+            <Transform>
+                <Position x="5.999998" y="-0.1951475" z="0.9807758" />
+                <Rotation x="-0.09804592" y="6.038214E-07" z="-3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>-2.384186E-07</X>
+                    <Y>1.737238E-13</Y>
+                    <Z>2.722031E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.5000004</X>
+                    <Y>-3.427267E-07</Y>
+                    <Z>0.5000006</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669707E-05</Y>
+                    <Z>2.873289E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7467</X>
+                    <Y>179.9999</Y>
+                    <Z>-3.647484E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="d708ada0-75c8-44e2-8afd-6a8ffbc838ac">
+            <Transform>
+                <Position x="4.999999" y="-0.1951475" z="0.9807758" />
+                <Rotation x="-0.09804592" y="6.038214E-07" z="-3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.9999995</X>
+                    <Y>-7.286501E-07</Y>
+                    <Z>-1.141702E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669707E-05</Y>
+                    <Z>2.873289E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669707E-05</Y>
+                    <Z>2.873289E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="71d8fa57-9fb5-4267-ae81-cde4dde074f3">
+            <Transform>
+                <Position x="5.499999" y="0.01213741" z="2.451964" />
+                <Rotation x="-0.707115" y="-1.266138E-07" z="-2.867339E-07" w="-0.7070985" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="e7f0ce9d-21ff-45d8-83aa-99b6c4c17e59">
+            <Transform>
+                <Position x="5.499996" y="1.012132" z="2.451937" />
+                <Rotation x="3.501011E-07" y="-0.9951819" z="-0.09804597" w="-6.081071E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="ccc0dc5c-0340-4c12-ba29-c72d84c5fa6f">
+            <Transform>
+                <Position x="6.000001" y="1.304852" z="-0.9807725" />
+                <Rotation x="3.066004E-07" y="0.9951819" z="-0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>2.384179E-07</X>
+                    <Y>-1.73724E-13</Y>
+                    <Z>-2.722026E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.4999985</X>
+                    <Y>-5.811453E-07</Y>
+                    <Z>0.4999998</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873285E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7466</X>
+                    <Y>-6.669701E-05</Y>
+                    <Z>-3.647482E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="87cc0235-8a90-49a0-84ea-081f3cc88d9f">
+            <Transform>
+                <Position x="5.999998" y="1.304852" z="0.9807758" />
+                <Rotation x="-0.09804592" y="6.038214E-07" z="-3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>-2.384186E-07</X>
+                    <Y>1.737238E-13</Y>
+                    <Z>2.722031E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.5000004</X>
+                    <Y>-3.427267E-07</Y>
+                    <Z>0.5000006</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669708E-05</Y>
+                    <Z>2.873288E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>348.7467</X>
+                    <Y>179.9999</Y>
+                    <Z>-3.647484E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="6ec35039-ae85-4362-8a5d-750147fee344">
+            <Transform>
+                <Position x="5.5" y="0.5121374" z="2.451941" />
+                <Rotation x="3.176422E-07" y="-0.7070985" z="-0.7071151" w="9.570482E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="d52a756e-b0b1-49dd-9ec2-2ee9bdb64972">
+            <Transform>
+                <Position x="4.999999" y="1.304852" z="0.9807758" />
+                <Rotation x="-0.09804592" y="6.038214E-07" z="-3.066003E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.9999995</X>
+                    <Y>-7.286501E-07</Y>
+                    <Z>-1.141702E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669708E-05</Y>
+                    <Z>2.873288E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669708E-05</Y>
+                    <Z>2.873288E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="94b90d1b-0baa-41fd-86ae-06b0aed85ed4">
+            <Transform>
+                <Position x="5.499999" y="0.01213741" z="2.451964" />
+                <Rotation x="0.7070985" y="3.035981E-07" z="-1.097493E-07" w="-0.7071151" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>4.114819E-07</X>
+                    <Y>3.549452E-05</Y>
+                    <Z>0.4999993</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-4.91996E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>1.824285E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="c27b8ad5-5332-4b7f-962d-86b5b5c8e3b4">
+            <Transform>
+                <Position x="5.499998" y="1.012137" z="2.451964" />
+                <Rotation x="0.7409491" y="3.431439E-07" z="-1.705138E-08" w="-0.6715612" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="28" guid="86741ab6-e459-4c29-8ea0-8facf0d213cd">
+            <Transform>
+                <Position x="5.5" y="-0.487874" z="2.951953" />
+                <Rotation x="-1.165271E-05" y="1.132218E-07" z="-2.684312E-07" w="-1" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-left">LeftArrow</StringArray>
+                <StringArray key="bmt-right">RightArrow</StringArray>
+                <Boolean key="bmt-autoReturn">False</Boolean>
+                <Single key="bmt-rotation-speed">1</Single>
+                <Boolean key="bmt-uselimits">True</Boolean>
+                <SingleArray key="bmt-limits">
+                    <Single>40</Single>
+                    <Single>40</Single>
+                </SingleArray>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="46" guid="712e8598-422b-408f-aad3-bb64d12a1fbf">
+            <Transform>
+                <Position x="5.5" y="-0.487895" z="3.951953" />
+                <Rotation x="-1.183152E-05" y="1.132215E-07" z="-2.445814E-07" w="-1" />
+                <Scale x="1.5" y="1.5" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">True</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">1</Single>
+                <Single key="bmt-acceleration">Infinity</Single>
+                <Boolean key="bmt-scale">True</Boolean>
+                <Single key="bmt-x-scale">1.5</Single>
+                <Single key="bmt-y-scale">1.5</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">True</Boolean>
+                <Boolean key="bmt-uselimits">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="5" guid="baaf79e6-4c18-4c9a-8cb0-2ec3f9ec13e0">
+            <Transform>
+                <Position x="5.500003" y="-0.4878702" z="-2.451933" />
+                <Rotation x="0.09804624" y="6.081073E-07" z="3.501012E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="4da841f8-338d-4f78-828c-5b91ae3f42ba">
+            <Transform>
+                <Position x="5" y="0.499999" z="1.907349E-06" />
+                <Rotation x="0.7071069" y="2.697454E-07" z="2.697454E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.9999993</X>
+                    <Y>4.769884E-08</Y>
+                    <Z>-1.136867E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-4.371412E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>-5.395939E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="cf35c921-4006-450d-9921-3f975ce5b6ed">
+            <Transform>
+                <Position x="5" y="-0.500001" z="2.145767E-06" />
+                <Rotation x="-0.7071067" y="2.360168E-07" z="-2.360167E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.9999993</X>
+                    <Y>2.861182E-07</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>-3.824815E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>-4.849342E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="08ef71a9-0082-4f15-b199-a02e88ac0d4a">
+            <Transform>
+                <Position x="5.499998" y="-0.2927217" z="1.471163" />
+                <Rotation x="-3.73836E-07" y="0.9951819" z="0.09804597" w="6.104456E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>1.192093E-07</X>
+                    <Y>1.029698E-13</Y>
+                    <Z>-1.361015E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.4999995</X>
+                    <Y>1.02818E-06</Y>
+                    <Z>0.4999995</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7467</X>
+                    <Y>179.9999</Y>
+                    <Z>-3.647483E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669712E-05</Y>
+                    <Z>2.873287E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="352f28a9-1d6e-4d68-b904-251b896e3919">
+            <Transform>
+                <Position x="6.000001" y="-0.1951475" z="-0.980772" />
+                <Rotation x="3.066004E-07" y="0.9951819" z="-0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>2.384179E-07</X>
+                    <Y>-1.73724E-13</Y>
+                    <Z>-2.722026E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.000001</X>
+                    <Y>-7.286538E-07</Y>
+                    <Z>-1.141705E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873285E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873285E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="af214dba-23d7-4d15-a924-dd7442109d4b">
+            <Transform>
+                <Position x="5.5" y="0.01213741" z="-2.451963" />
+                <Rotation x="-0.7071068" y="2.800465E-07" z="1.444193E-07" w="-0.7071067" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="9e20ee42-5a92-4e14-9521-86252f48e288">
+            <Transform>
+                <Position x="5" y="1.999999" z="1.430511E-06" />
+                <Rotation x="0.7071069" y="2.697454E-07" z="2.697454E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.9999993</X>
+                    <Y>-1.907194E-07</Y>
+                    <Z>-2.273734E-13</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-4.371414E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>-5.395939E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="2b3c0df1-44fc-4ecf-9993-be807c26d37a">
+            <Transform>
+                <Position x="5" y="0.999999" z="1.66893E-06" />
+                <Rotation x="-0.7071067" y="2.360168E-07" z="-2.360167E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.9999993</X>
+                    <Y>2.861182E-07</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>90</X>
+                    <Y>-3.824815E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>-4.849342E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="69a7798d-439b-4d99-bf3a-61838d156f56">
+            <Transform>
+                <Position x="6.000001" y="1.304852" z="-0.9807725" />
+                <Rotation x="3.066004E-07" y="0.9951819" z="-0.09804619" w="6.038215E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>2.384179E-07</X>
+                    <Y>-1.73724E-13</Y>
+                    <Z>-2.722026E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.000002</X>
+                    <Y>-7.286545E-07</Y>
+                    <Z>-1.141706E-06</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873285E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873285E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="69b8c522-392f-4d8c-9b11-a9cc186005d5">
+            <Transform>
+                <Position x="5.500003" y="1.01213" z="-2.451933" />
+                <Rotation x="0.09804624" y="6.081073E-07" z="3.501012E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="92529721-befc-41b2-b3d9-2d2b97787dc3">
+            <Transform>
+                <Position x="5.499998" y="1.207278" z="1.471163" />
+                <Rotation x="-3.73836E-07" y="0.9951819" z="0.09804597" w="6.104456E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>1.192093E-07</X>
+                    <Y>1.029698E-13</Y>
+                    <Z>-1.361015E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.4999995</X>
+                    <Y>1.02818E-06</Y>
+                    <Z>0.4999995</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7467</X>
+                    <Y>179.9999</Y>
+                    <Z>-3.647484E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25331</X>
+                    <Y>-6.669712E-05</Y>
+                    <Z>2.873286E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="35" guid="1128795a-774d-4bc0-8fae-b7fb3c2a032a">
+            <Transform>
+                <Position x="5.5" y="0.5121374" z="-2.451964" />
+                <Rotation x="-1.135107E-07" y="-0.7071066" z="-0.7071069" w="-3.109551E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="38c68894-e948-43c2-b13c-901fc770c620">
+            <Transform>
+                <Position x="5.5" y="0.01213741" z="-2.451963" />
+                <Rotation x="0.7071067" y="-1.27555E-07" z="2.969108E-07" w="-0.7071069" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>-5.960463E-07</X>
+                    <Y>-4.768367E-07</Y>
+                    <Z>-2.842167E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.015399E-06</X>
+                    <Y>8.046616E-07</Y>
+                    <Z>0.4999993</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>2.067119E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>-4.265049E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="964bd5a3-09cd-4e52-a047-31bfdadd6ba6">
+            <Transform>
+                <Position x="5.5" y="1.012137" z="-2.451963" />
+                <Rotation x="0.6715523" y="-8.768097E-08" z="2.894704E-07" w="-0.7409571" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="28" guid="4bd49307-53c4-42ae-aba8-6256295fb6cb">
+            <Transform>
+                <Position x="5.5" y="-0.4878626" z="-2.951963" />
+                <Rotation x="2.762929E-07" y="1" z="8.940692E-08" w="9.590285E-08" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <StringArray key="bmt-left">LeftArrow</StringArray>
+                <StringArray key="bmt-right">RightArrow</StringArray>
+                <Boolean key="bmt-autoReturn">False</Boolean>
+                <Single key="bmt-rotation-speed">1</Single>
+                <Boolean key="bmt-uselimits">True</Boolean>
+                <SingleArray key="bmt-limits">
+                    <Single>40</Single>
+                    <Single>40</Single>
+                </SingleArray>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="46" guid="a3a83caf-0038-4ffd-b327-a73fa2577c22">
+            <Transform>
+                <Position x="5.5" y="-0.4878588" z="-3.951963" />
+                <Rotation x="2.524431E-07" y="1" z="-2.98023E-08" w="9.590281E-08" />
+                <Scale x="1.5" y="1.5" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-automatic">False</Boolean>
+                <Boolean key="bmt-toggle-mode">False</Boolean>
+                <Boolean key="bmt-auto-brake">True</Boolean>
+                <StringArray key="bmt-forward">UpArrow</StringArray>
+                <StringArray key="bmt-backward">DownArrow</StringArray>
+                <Single key="bmt-speed">1</Single>
+                <Single key="bmt-acceleration">Infinity</Single>
+                <Boolean key="bmt-scale">True</Boolean>
+                <Single key="bmt-x-scale">1.5</Single>
+                <Single key="bmt-y-scale">1.5</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Boolean key="flipped">False</Boolean>
+                <Boolean key="bmt-uselimits">False</Boolean>
+            </Data>
+        </Block>
+        <Block id="7" guid="985133fa-933b-4351-ad36-d3df985d733f">
+            <Transform>
+                <Position x="5.500002" y="-0.2927217" z="-1.471159" />
+                <Rotation x="0.09804623" y="6.104456E-07" z="3.738361E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.5000006</X>
+                    <Y>5.215406E-08</Y>
+                    <Z>0.5000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7466</X>
+                    <Y>-6.669704E-05</Y>
+                    <Z>-3.647482E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873285E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="4893004d-c760-48a5-8fe6-bc039cc8cbde">
+            <Transform>
+                <Position x="5.500002" y="1.207278" z="-1.471159" />
+                <Rotation x="0.09804623" y="6.104456E-07" z="3.738361E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.5000006</X>
+                    <Y>5.215406E-08</Y>
+                    <Z>0.5000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>348.7466</X>
+                    <Y>-6.669704E-05</Y>
+                    <Z>-3.647482E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>11.25335</X>
+                    <Y>179.9999</Y>
+                    <Z>2.873287E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="3e36af3c-013f-4a71-85c9-0fbc1e4fde9e">
+            <Transform>
+                <Position x="5" y="-9.536743E-07" z="1.907349E-06" />
+                <Rotation x="-0.09804592" y="6.061597E-07" z="-3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="2b129213-86ea-43e4-b6fc-c7e34a2866a0">
+            <Transform>
+                <Position x="5" y="1.499999" z="1.66893E-06" />
+                <Rotation x="-0.09804592" y="6.061597E-07" z="-3.303351E-07" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="071a9de6-b971-4920-9f16-bf6271d7ea1d">
+            <Transform>
+                <Position x="5.5" y="1.499999" z="1.907349E-06" />
+                <Rotation x="8.432172E-08" y="0.7071072" z="-8.432166E-08" w="-0.7071064" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="5d9b2bf1-d5d6-42a2-98d4-927dce95c844">
+            <Transform>
+                <Position x="5" y="-0.4878626" z="2.451953" />
+                <Rotation x="-8.442175E-06" y="0.7071069" z="8.028827E-06" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-3.58939E-05</X>
+                    <Y>1.5</Y>
+                    <Z>-4.000025E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>3.34929E-05</X>
+                    <Y>270</Y>
+                    <Z>-0.00133462</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>3.349217E-05</X>
+                    <Y>270</Y>
+                    <Z>-0.001338035</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="5" guid="e6561bc6-12c6-4a68-bf7f-4c6e13a70575">
+            <Transform>
+                <Position x="5" y="-9.536743E-07" z="1.907349E-06" />
+                <Rotation x="3.303352E-07" y="0.9951819" z="-0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="2d16915a-d6b5-46c7-a96d-1f66c54f180e">
+            <Transform>
+                <Position x="5" y="1.499999" z="1.430511E-06" />
+                <Rotation x="3.303352E-07" y="0.9951819" z="-0.09804618" w="6.061598E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="89ad6b6a-bd2e-4d9c-a7aa-06d9d9f039fa">
+            <Transform>
+                <Position x="5" y="0.499999" z="1.907349E-06" />
+                <Rotation x="0.7071069" y="2.697454E-07" z="2.697454E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-3.495946E-13</X>
+                    <Y>2.980228E-07</Y>
+                    <Z>0.4999993</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-4.371412E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>90</X>
+                    <Y>-7.239907E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="6925612e-c9f9-4dc0-9c69-674a89e80a02">
+            <Transform>
+                <Position x="5" y="-0.4878626" z="-2.451963" />
+                <Rotation x="1.532217E-07" y="0.7071069" z="2.712442E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>4.768365E-07</X>
+                    <Y>7.958843E-14</Y>
+                    <Z>-1.7053E-13</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.204036E-06</X>
+                    <Y>1.5</Y>
+                    <Z>4.235908E-07</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>-3.439384E-05</X>
+                    <Y>270</Y>
+                    <Z>-9.563176E-06</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-3.439383E-05</X>
+                    <Y>270</Y>
+                    <Z>-2.322354E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="19" guid="f6724edf-02e7-44af-bade-571fc251a736">
+            <Transform>
+                <Position x="4.5" y="-9.536743E-07" z="1.66893E-06" />
+                <Rotation x="8.432165E-08" y="-0.7071065" z="8.432168E-08" w="-0.7071071" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="ea3d5044-cb8b-4aa0-b8e7-5a9ea15ddb29">
+            <Transform>
+                <Position x="4.999999" y="1.012137" z="2.451952" />
+                <Rotation x="0.06932055" y="0.7036992" z="0.06933707" w="-0.7037007" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="5" guid="fd8a351a-0a84-42b2-b6b8-40fadc26b137">
+            <Transform>
+                <Position x="4.999978" y="1.012141" z="-2.451964" />
+                <Rotation x="0.06932903" y="0.7036983" z="0.06932941" w="-0.7037014" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="35" guid="1c2b2666-4d39-4086-b502-a6b7f52c1fc8">
+            <Transform>
+                <Position x="3.5" y="-9.536743E-07" z="9.536743E-07" />
+                <Rotation x="6.745732E-08" y="-0.7071066" z="6.745733E-08" w="-0.7071071" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-mass">0.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="874a307f-3a83-4e11-b1c2-a81a9999686c">
+            <Transform>
+                <Position x="3.038439" y="1.402396" z="1.451961" />
+                <Rotation x="-0.06933707" y="-0.7037007" z="0.06932054" w="-0.7036991" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>1.451961</X>
+                    <Y>0.3809117</Y>
+                    <Z>1.414421</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25329</X>
+                    <Y>90.00027</Y>
+                    <Z>0.001371924</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-2.731577E-06</X>
+                    <Y>269.9999</Y>
+                    <Z>8.768674E-06</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="6585db5b-9982-4004-902b-4a533e71d4da">
+            <Transform>
+                <Position x="3.038423" y="1.402379" z="-1.451955" />
+                <Rotation x="-0.06932945" y="-0.7037015" z="0.06932905" w="-0.7036982" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-1.451962</X>
+                    <Y>0.3809669</Y>
+                    <Z>1.414419</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>11.25337</X>
+                    <Y>90.00027</Y>
+                    <Z>5.91947E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>9.765404E-07</X>
+                    <Y>269.9999</Y>
+                    <Z>1.109765E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="19" guid="3e9383ae-13a2-4867-b7b0-6f41d428c171">
+            <Transform>
+                <Position x="2.548034" y="1.499953" z="-1.951953" />
+                <Rotation x="-2.991193E-07" y="-2.359222E-06" z="0.09804636" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="78508203-9d41-4e31-adcd-e5eeaf8a7fb5">
+            <Transform>
+                <Position x="2.548052" y="1.499934" z="2.951963" />
+                <Rotation x="-1.170766E-05" y="-1.192748E-06" z="0.09804578" w="-0.9951819" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>9.320285E-07</X>
+                    <Y>-0.0001220479</Y>
+                    <Z>-5.903916</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>0.001348535</X>
+                    <Y>4.482325E-06</Y>
+                    <Z>348.7467</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-6.06175E-05</X>
+                    <Y>180.0003</Y>
+                    <Z>11.25336</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="19" guid="60d4cb40-0c92-45a9-8390-4802f718d3fe">
+            <Transform>
+                <Position x="2.548052" y="1.499959" z="1.951963" />
+                <Rotation x="0.09804574" y="0.9951819" z="1.170766E-05" w="-1.192748E-06" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="f6d3ea9f-8dc7-4fee-8768-fb1f7d35b7c0">
+            <Transform>
+                <Position x="4.019192" y="1.207232" z="-2.451959" />
+                <Rotation x="0.06932902" y="0.7036982" z="0.06932944" w="-0.7037015" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="24037b62-99e8-4ff6-ad83-23569f606f97">
+            <Transform>
+                <Position x="4.019214" y="1.207227" z="2.451957" />
+                <Rotation x="0.06932053" y="0.7036991" z="0.06933709" w="-0.7037007" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="bcd3de14-5405-41ed-81e9-b560f4e3ea99">
+            <Transform>
+                <Position x="-5.500001" y="2.00732" z="-2.353929" />
+                <Rotation x="0.6715523" y="7.166463E-08" z="-3.071421E-07" w="-0.7409571" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="c59a79d6-7523-4508-9cd0-4bacbf91607f">
+            <Transform>
+                <Position x="-5.499998" y="2.007323" z="2.353953" />
+                <Rotation x="0.7409491" y="-3.608153E-07" z="1.034812E-09" w="-0.6715612" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="189717ab-4a59-4ac6-a7ce-06f7787a5497">
+            <Transform>
+                <Position x="5.500001" y="2.00732" z="-2.353929" />
+                <Rotation x="0.6715523" y="-1.036974E-07" z="2.717988E-07" w="-0.7409571" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="16" guid="43246dfa-fc96-40bd-9160-83b9460064e0">
+            <Transform>
+                <Position x="5.499997" y="2.007323" z="2.353953" />
+                <Rotation x="0.7409491" y="3.254724E-07" z="-3.306796E-08" w="-0.6715612" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Single key="bmt-spring">1.5</Single>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="79099044-8e07-40e7-bb3d-7dee69a0cf9a">
+            <Transform>
+                <Position x="5.000002" y="3.500094" z="-2.206876" />
+                <Rotation x="-0.03470223" y="0.7062548" z="0.03470261" w="-0.7062547" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="13ad3cbd-2993-405b-97f4-e5b229b425dc">
+            <Transform>
+                <Position x="4.999996" y="3.5001" z="2.206936" />
+                <Rotation x="0.0346938" y="0.7062554" z="-0.03469415" w="-0.706255" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="8752a790-6e2b-42de-b0e1-703d15880689">
+            <Transform>
+                <Position x="-5.000002" y="3.500094" z="-2.206876" />
+                <Rotation x="-0.03470227" y="-0.7062549" z="-0.03470265" w="-0.7062546" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="19" guid="9c97d5f1-2ca1-4623-802e-477c1c864866">
+            <Transform>
+                <Position x="-4.999997" y="3.5001" z="2.206936" />
+                <Rotation x="0.03469376" y="-0.7062554" z="0.03469412" w="-0.706255" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+            </Data>
+        </Block>
+        <Block id="7" guid="ddca28be-bab9-43c1-b7c8-18a66eefd536">
+            <Transform>
+                <Position x="0" y="0.5" z="0" />
+                <Rotation x="0.7071068" y="-1.686433E-08" z="-1.686433E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-4.000002</X>
+                    <Y>2.206877</Y>
+                    <Z>3.000096</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>2.732981E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-3.265684E-05</X>
+                    <Y>90.00002</Y>
+                    <Z>5.626035</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="da6d61f2-b42d-489f-9ba7-89faaf546704">
+            <Transform>
+                <Position x="-3.999997" y="3.5001" z="2.206935" />
+                <Rotation x="0.03469374" y="-0.7062554" z="0.03469411" w="-0.706255" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.490351</X>
+                    <Y>-2.76935</Y>
+                    <Z>4.000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>3.116274E-05</X>
+                    <Y>90.00003</Y>
+                    <Z>354.3754</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="c2285d18-73d9-455d-a7c9-78929d0b44aa">
+            <Transform>
+                <Position x="0" y="0.5" z="0" />
+                <Rotation x="0.7071068" y="-1.686433E-08" z="-1.686433E-08" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>4.000002</X>
+                    <Y>2.206876</Y>
+                    <Z>3.000096</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>2.732981E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-2.732076E-05</X>
+                    <Y>270</Y>
+                    <Z>354.374</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="b3772e6e-ab39-4ae2-8930-6d6f7187c367">
+            <Transform>
+                <Position x="3.999996" y="3.5001" z="2.206935" />
+                <Rotation x="0.03469381" y="0.7062554" z="-0.03469418" w="-0.706255" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2.490351</X>
+                    <Y>-2.769349</Y>
+                    <Z>4.000001</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>3.094929E-05</X>
+                    <Y>270</Y>
+                    <Z>5.624661</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>-4.829672E-06</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="0d0080cc-a84c-4066-ab0c-4fcbc9589df2">
+            <Transform>
+                <Position x="4.499997" y="3.451095" z="1.709343" />
+                <Rotation x="2.273106E-07" y="-0.9987956" z="0.04906469" w="-2.541144E-07" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-3.586103E-06</X>
+                    <Y>0.3350458</Y>
+                    <Z>3.402171</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>5.624658</X>
+                    <Y>180</Y>
+                    <Z>-2.757802E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>5.626029</X>
+                    <Y>-1.112597E-05</Y>
+                    <Z>-2.75995E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="a90a24c6-2eff-43da-9f63-828093b1626c">
+            <Transform>
+                <Position x="-4.500002" y="3.451077" z="-1.709285" />
+                <Rotation x="-0.04907668" y="-1.696052E-07" z="-2.914323E-07" w="-0.998795" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>4.184772E-06</X>
+                    <Y>0.3351635</Y>
+                    <Z>3.402158</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>5.626033</X>
+                    <Y>2.115275E-05</Y>
+                    <Z>3.447532E-05</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>5.624651</X>
+                    <Y>180</Y>
+                    <Z>3.328896E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="ee21cc90-4357-4d60-9cef-ecfd1a52ffc5">
+            <Transform>
+                <Position x="-3.999997" y="3.5001" z="2.206935" />
+                <Rotation x="0.03469374" y="-0.7062554" z="0.03469411" w="-0.706255" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-4.29383E-06</X>
+                    <Y>3.950837E-06</Y>
+                    <Z>7.999996</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>3.116274E-05</X>
+                    <Y>90.00003</Y>
+                    <Z>354.3754</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>3.116274E-05</X>
+                    <Y>270</Y>
+                    <Z>5.624661</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="34521dc6-b42b-415f-9616-013dc1d652da">
+            <Transform>
+                <Position x="4.000002" y="3.500094" z="-2.206876" />
+                <Rotation x="-0.03470222" y="0.7062548" z="0.03470259" w="-0.7062547" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.861023E-06</X>
+                    <Y>-4.172328E-06</Y>
+                    <Z>8.000007</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>-3.116274E-05</X>
+                    <Y>270</Y>
+                    <Z>354.374</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>-3.201651E-05</X>
+                    <Y>90.00002</Y>
+                    <Z>5.626037</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="225b3f18-b487-42aa-beed-0fefc78bf276">
+            <Transform>
+                <Position x="4.000001" y="0.499999" z="1.156298E-06" />
+                <Rotation x="0.7071069" y="1.727965E-07" z="1.727965E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.5000001</X>
+                    <Y>1.709286</Y>
+                    <Z>2.951079</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-2.800287E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>5.626029</X>
+                    <Y>-1.112597E-05</Y>
+                    <Z>-2.75995E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="486ea047-1716-4fe1-a1d5-30f38e54ecb1">
+            <Transform>
+                <Position x="4.000001" y="0.499999" z="1.156298E-06" />
+                <Rotation x="0.7071069" y="1.727965E-07" z="1.727965E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>0.4999965</X>
+                    <Y>-1.709343</Y>
+                    <Z>2.951095</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-2.800287E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>5.624651</X>
+                    <Y>180</Y>
+                    <Z>-2.757802E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="bccadb87-fae3-4de9-87ff-998a4dc3ccc4">
+            <Transform>
+                <Position x="-4" y="0.5" z="1.066892E-06" />
+                <Rotation x="0.7071069" y="-2.065251E-07" z="-2.065251E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.4999977</X>
+                    <Y>-1.709343</Y>
+                    <Z>2.951094</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>3.346884E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>5.624651</X>
+                    <Y>180</Y>
+                    <Z>3.328895E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="cc645283-0662-4fa6-88bc-278a972c5307">
+            <Transform>
+                <Position x="-4" y="0.5" z="1.066892E-06" />
+                <Rotation x="0.7071069" y="-2.065251E-07" z="-2.065251E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-0.5000009</X>
+                    <Y>1.709286</Y>
+                    <Z>2.951077</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>3.346884E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>5.626035</X>
+                    <Y>2.115275E-05</Y>
+                    <Z>3.447532E-05</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="127fef86-7a33-46b6-b75c-a4cda93445bd">
+            <Transform>
+                <Position x="-2.645611" y="1.99034" z="-1.451953" />
+                <Rotation x="0.7036996" y="0.0693309" z="-0.06932759" w="-0.7037001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2.307232</X>
+                    <Y>-1.451964</Y>
+                    <Z>0.4689289</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>281.2534</X>
+                    <Y>270</Y>
+                    <Z>89.99969</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>7.848219E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="445af363-3145-4944-95ad-307aeca7f76c">
+            <Transform>
+                <Position x="-2.645626" y="1.990357" z="1.451975" />
+                <Rotation x="0.7036917" y="0.06932964" z="-0.06932799" w="-0.7037082" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2.307235</X>
+                    <Y>1.451974</Y>
+                    <Z>0.4688725</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>281.2533</X>
+                    <Y>270.0068</Y>
+                    <Z>89.99311</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>7.848219E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="4bd56a94-0524-4e04-803e-79beab500438">
+            <Transform>
+                <Position x="2.64561" y="1.99034" z="-1.451952" />
+                <Rotation x="0.7036996" y="-0.06933093" z="0.06932756" w="-0.7037001" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>2.307231</X>
+                    <Y>-1.451965</Y>
+                    <Z>0.4689279</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>281.2534</X>
+                    <Y>89.99996</Y>
+                    <Z>270.0003</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>270</X>
+                    <Y>-7.123768E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+            </Data>
+        </Block>
+        <Block id="7" guid="2d9d4120-014e-4e52-90dc-e179e3222f3f">
+            <Transform>
+                <Position x="4.999999" y="1.999999" z="1.132449E-06" />
+                <Rotation x="0.7071069" y="4.467509E-07" z="4.46751E-07" w="-0.7071068" />
+                <Scale x="1" y="1" z="1" />
+            </Transform>
+            <Data>
+                <Boolean key="bmt-scale">False</Boolean>
+                <Single key="bmt-x-scale">1</Single>
+                <Single key="bmt-y-scale">1</Single>
+                <Single key="bmt-z-scale">1</Single>
+                <Vector3 key="start-position">
+                    <X>0</X>
+                    <Y>0</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-position">
+                    <X>-2.354372</X>
+                    <Y>-1.451977</Y>
+                    <Z>-0.009641647</Z>
+                </Vector3>
+                <Vector3 key="start-rotation">
+                    <X>270</X>
+                    <Y>-7.239908E-05</Y>
+                    <Z>0</Z>
+                </Vector3>
+                <Vector3 key="end-rotation">
+                    <X>281.2533</X>
+                    <Y>89.99325</Y>
+                    <Z>270.0069</Z>
+                </Vector3>
+            </Data>
+        </Block>
+    </Blocks>
+</Machine>
